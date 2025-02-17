@@ -1,4 +1,4 @@
-# Alertindia
+# Disaster Alert Service India
 # Local Disaster Response Coordination Platform
 
 Directory structure:
