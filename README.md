@@ -3,11 +3,13 @@
 
 Directory structure:
 
-    └── anmol1789-alertindia/
+    └── anmol1789-disaster-alert-service-india/
     ├── README.md
+    ├── LICENSE.txt
     ├── index.html
     ├── script.js
     └── style.css
+
 
 
 ## Overview
